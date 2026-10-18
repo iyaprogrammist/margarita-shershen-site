@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Адрес сайта на GitHub Pages
+Sitemap: https://iyaprogrammist.github.io/margarita-shershen-site/sitemap.xml
